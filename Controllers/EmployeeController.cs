@@ -1,7 +1,6 @@
 ﻿using System.Threading.Tasks;
 using CQRSMediator.CQRS.Commands;
 using CQRSMediator.CQRS.Queries;
-using CQRSMediator.Migrations;
 using MediatR;
 using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
